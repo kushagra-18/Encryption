@@ -40,6 +40,3 @@ Pull requests are welcome.
 
 This project is licensed under the [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) open source license.
 
-## Contact
-
-Please [contact MTI](https://www.meixler-tech.com/contact.php) for any questions or comments concerning this project.
